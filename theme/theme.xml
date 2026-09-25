@@ -1,0 +1,14 @@
+<gresources>
+  <gresource prefix="/org/gnome/shell/theme">
+    <file>calendar-today-light.svg</file>
+    <file>calendar-today.svg</file>
+    <file>gdm-background.jpg</file>
+    <file>gdm-say-my-name-label.png</file>
+    <file>gnome-shell-dark.css</file>
+    <file>gnome-shell-high-contrast.css</file>
+    <file>gnome-shell-light.css</file>
+    <file>gnome-shell-start.svg</file>
+    <file>pad-osd.css</file>
+    <file>workspace-placeholder.svg</file>
+  </gresource>
+</gresources>

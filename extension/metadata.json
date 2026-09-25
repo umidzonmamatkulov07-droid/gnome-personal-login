@@ -1,0 +1,7 @@
+{
+  "uuid": "lock-sequence@umidjon",
+  "name": "Lock photo sequence",
+  "description": "Show the first photo on lock and the second photo after unlock",
+  "shell-version": ["50"],
+  "session-modes": ["user", "unlock-dialog"]
+}
