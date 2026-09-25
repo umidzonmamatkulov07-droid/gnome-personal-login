@@ -16,8 +16,8 @@ desktop after about 2.5 seconds. Enter, a click, or a touch opens it sooner.
 
 These files were saved from the installed configuration on Fedora 44 with
 GNOME Shell 50.0. GNOME internal interfaces can change between versions;
-check compatibility before using them on another release. The images are
-personal, so keep the repository private unless you want to share them.
+check compatibility before using them on another release. The repository
+includes both photos, which are visible and downloadable when it is public.
 
 ## Restore the extension
 
